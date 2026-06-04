@@ -1,4 +1,4 @@
-## Hi I'm starry
+## hi I'm starry :D
 
 # 💫 About Me:
 🌱 I’m currently learning how to use Godot to create my own indie game
